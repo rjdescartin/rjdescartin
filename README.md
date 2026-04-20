@@ -36,25 +36,6 @@ I focus on the part that actually matters — **conversion, structure, and clari
 
 ---
 
-## Featured Work
-
-### HTML Section Library
-
-Reusable, framework-agnostic UI sections built for speed and flexibility. <br>
-→ Clean structure, consistent spacing system, fully responsive.
-
-### MadZilla Website Templates
-
-Conversion-first templates for agencies and local businesses.<br>
-→ Designed to reduce build time while improving performance.
-
-### Preview Engine
-
-A system that generates personalized homepage previews for prospects.<br>
-→ Faster outreach, higher response rates.
-
----
-
 ## How I Work
 
 * I don’t overcomplicate tech
